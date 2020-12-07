@@ -1,4 +1,4 @@
-### Title Fetcher
+### Title Bot
 
 Create a web form that allows a user to type in a url to any website and have it then output the Title of that website on the same page. For example, if I typed in CNN.COM into the text input of the web page, it would spit out:
 
@@ -14,3 +14,5 @@ This task should take you somewhere around 4 hours. Make a git repository availa
 - Use React or any other front end web framework for the web form (Vue, Angular, Ember, etc.)
 - Write the API server in scala or node.js
 - Make it look great. Styling with Bootstrap is preferred
+- Display a historical list of all urls entered by the user, along with their titles
+- Dockerize the application
