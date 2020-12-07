@@ -8,9 +8,7 @@ The application should consist of a javscript/html/css front end, and a backend 
 
 You may use your preferred language for developing. Our preferred languages at chatmeter are scala and javascript.
 
-Make sure that the application can be run with minimal set up.
-
-This task should take you somewhere around 4 hours. You will present the application during your next interview.
+This task should take you somewhere around 4 hours. Make a git repository available online and send us the link. Make sure that the application can be run by us with minimal set up. You will present the application during your next interview.
 
 **Bonus points:**
 - Use React or any other front end web framework for the web form (Vue, Angular, Ember, etc.)
